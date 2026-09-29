@@ -7,4 +7,14 @@ nlksnvlkdsv;lj
 lksdnvlkndslkv nlksnlkvvsnvlv"""
 print("hello AI ")
 a ='COLLEGE'
-print(a[3:6:1])
+print(a[3:6:3])
+print('=============================')
+b='Hello how are you'
+# how
+print(b[6:9:1])
+#you
+print(b[14:17:1])
+#Hello
+print (b[0:5:1])
+print('=====================================================')
+c ='yemmwermwerm'
