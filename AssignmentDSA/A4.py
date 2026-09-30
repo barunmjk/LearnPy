@@ -11,7 +11,4 @@ for i in range(len(l) - 1):
             l[j + 1] = temp
 
 print(l)                                        
-
-s={'mohan'}
-#print(hash(s))
-print(type(s))
+ 
