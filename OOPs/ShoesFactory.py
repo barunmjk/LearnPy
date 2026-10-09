@@ -12,7 +12,7 @@ class Nike(ShoesFactory):
         def getDetails(self):
                 print(f'name of shoes is {self.name} and type is {self.type} and size is {self.size}') 
 
-class Campus(Nike):
+class Campus(Nike):#MultiLevelInheritance
                   def __init__(self, name, type, size,price):
                           super().__init__(name, type, size)
                           self.price=price 
