@@ -9,4 +9,4 @@ def convertFer(c):
                 f =(9/5*c)+32
                 return f    
 calfar=list(map(convertFer,c))
-print(calfar)     
+print(calfar)

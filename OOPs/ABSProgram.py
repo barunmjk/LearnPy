@@ -1,6 +1,6 @@
 from abc import ABC ,abstractmethod
 
-class enforce(ABC):
+class enforce(ABC): 
        @abstractmethod
        def startEngine():
               pass
